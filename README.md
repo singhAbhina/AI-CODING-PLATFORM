@@ -54,7 +54,7 @@ A full-featured online coding platform inspired by LeetCode, designed to help us
 ---
 ##Architecture
 ![Alt Text](https://github.com/singhAbhina/AI-CODING-PLATFORM/blob/main/leetcode%20_system_architecture.png)
-
+![AI Coding Platform Screenshot](https://github.com/singhAbhina/AI-CODING-PLATFORM/blob/main/output_leetcode.png)
 ## Installation
 
 1. **Clone the repository**
@@ -153,7 +153,7 @@ Push to the branch (git push origin feature/your-feature)
 
 Open a Pull Request
 
-![AI Coding Platform Screenshot](https://github.com/singhAbhina/AI-CODING-PLATFORM/blob/main/output_leetcode.png)
+
 
 
 
