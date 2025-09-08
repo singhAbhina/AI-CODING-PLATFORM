@@ -153,7 +153,7 @@ Push to the branch (git push origin feature/your-feature)
 
 Open a Pull Request
 
-![AI Coding Platform Screenshot](https://raw.githubusercontent.com/singhAbhina/AI-CODING-PLATFORM/main/Screenshot%202025-09-08%20222351.png)
+![AI Coding Platform Screenshot](https://github.com/singhAbhina/AI-CODING-PLATFORM/blob/main/output_leetcode.png))
 
 
 
