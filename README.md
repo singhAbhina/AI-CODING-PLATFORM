@@ -154,6 +154,6 @@ Push to the branch (git push origin feature/your-feature)
 Open a Pull Request
 
 ##RESULT
-![AI Coding Platform Screenshot](https://github.com/singhAbhina/AI-CODING-PLATFORM/blob/main/Screenshot%202025-09-08%20222351.png?raw=true)
+![AI Coding Platform Screenshot](https://github.com/singhAbhina/AI-CODING-PLATFORM/blob/main/Screenshot%202025-09-08%20222351.png?row=true)
 
 
