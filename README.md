@@ -52,6 +52,8 @@ A full-featured online coding platform inspired by LeetCode, designed to help us
 | AI Chatbot                 | Gemini          |
 
 ---
+##Architecture
+![Alt Text](relative-or-absolute-path-to-image.png)
 
 ## Installation
 
