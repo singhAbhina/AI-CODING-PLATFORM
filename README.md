@@ -154,5 +154,5 @@ Push to the branch (git push origin feature/your-feature)
 Open a Pull Request
 
 #RESULT
-![Alt Text](https://github.com/singhAbhina/AI-CODING-PLATFORM/blob/main/Screenshot%202025-09-08%20222351.png)
+![Alt-Text](https://github.com/singhAbhina/AI-CODING-PLATFORM/blob/main/Screenshot%202025-09-08%20222351.png)
 
